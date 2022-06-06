@@ -11,7 +11,7 @@
 ディレクトリは以下のルールに従って作ってください。<br>
 ・「Exercise_for_Pool」というディレクトリを作成　　<br>
 ・上記ディレクトリ以下に、「python」か「web」またはその両方を作成<br>
-・python(or web)以下に、「ex1_web-scraping」,「ex2_docker&DB」（「site-trace1」・・）などの課題名ディレクトリを作成<br>
+・python(or web)以下に、「ex1_web-scraping」,「ex2_docker」（「site-trace1」・・）などの課題名ディレクトリを作成<br>
 ・課題名ディレクトリ以下に、「1-1.py」などの具体的な成果物を入れる<br>
 例：　　<br>
 Exercise_for_Pool/python/ex1_web-scraping/1-1.py　　
