@@ -2,7 +2,7 @@
 これは、ファイナルアンサーに入社された方が、試用期間中に取り組む課題になります。
 以下の手順に沿って、課題に取り組んでいってください。
 
-1.　「Exercise_for_Pool」をクローンする
+1.　本リポジトリ「Exercise_for_Pool」をクローンする
 
 2.　python、web、IT総合基礎などそれぞれのディレクトリから課題を把握する
 
@@ -11,14 +11,16 @@
 ディレクトリは以下のルールに従って作ってください。<br>
 ・「Exercise_for_Pool」というディレクトリを作成　　<br>
 ・上記ディレクトリ以下に、「python」か「web」またはその両方を作成<br>
-・python(or web)以下に、「Ex.1」,「Ex.2」（「site-trace1」・・）のディレクトリを作成<br>
-・Ex.1以下に、「Ex_1_1.py」などの具体的な成果物を入れる<br>
+・python(or web)以下に、「ex1_web-scraping」,「ex2_docker&DB」（「site-trace1」・・）などの課題名ディレクトリを作成<br>
+・課題名ディレクトリ以下に、「1-1.py」などの具体的な成果物を入れる<br>
 例：　　<br>
-HiromitsuIkeda/Final_Answer/Exercise_for_Pool/python/Ex.1/Ex_1_1.py　　
+Exercise_for_Pool/python/ex1_web-scraping/1-1.py　　
 
 4.　自分のgithubに、「Final_Answer」というリモートリポジトリを作成
 
 5.　課題を「Final_Answer」リポジトリにアップロード
+例：　　<br>
+ユーザー名/Final_Answer/Exercise_for_Pool/python/ex1_web-scraping/1-1.py　　
 
 6.　以下GoogleFormにて提出<br>
 送信内容は、
@@ -26,7 +28,7 @@ HiromitsuIkeda/Final_Answer/Exercise_for_Pool/python/Ex.1/Ex_1_1.py　　
 * GitHubのURL
 
 ## pythonチーム
-説明が入ります。
+pythonディレクトリの『explanation.pdf』及び各課題ディレクトリ内の説明資料を参照。
 
 ## webチーム
 webチームの課題は以下の2種になります
