@@ -28,7 +28,7 @@ Exercise_for_Pool/python/ex1_web-scraping/1-1.py　　
 * GitHubのURL
 
 ## pythonチーム
-pythonディレクトリの『explanation.pdf』及び各課題ディレクトリ内の説明資料を参照。
+pythonディレクトリの『explanation.md』及び各課題ディレクトリ内の説明資料を参照。
 
 ## webチーム
 webチームの課題は以下の2種になります
