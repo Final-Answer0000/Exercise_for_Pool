@@ -54,3 +54,8 @@ excelの中の「Amazon Lightsailの使用設定」「ログイン機能」の�
 ### 提出方法
 提出は[こちら](https://docs.google.com/forms/d/e/1FAIpQLScYrEw7wbQI5hLxWTDG5jZJJrd9mTpo9XchFk5TNh9LjoxHfw/viewform?usp=sf_link)から<br>
 課題番号のチェックボックスを作っているので、そちらにチェックを入れること。複数課題をまとめて提出することも可とする。 <br>
+
+## IT総合基礎
+IT総合基礎の課題は、「IT_comprehensive_basics」のディレクトリ内にある各PDFにあるリンクの内容を読んだのち、PDFの最後にあるgoogleフォームへの回答と、課題がある場合には課題に取り組むことになります。
+各PDFにあるgoogleフォームに問題とあわせて合格基準が書かれています。その点数を上回るよう、リンクの内容をよく読むようにしてください。
+
