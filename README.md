@@ -18,7 +18,7 @@ Exercise_for_Pool/python/ex1_web-scraping/1-1.py　　
 
 4.　自分のgithubに、「Final_Answer」というリモートリポジトリを作成
 
-5.　課題を「Final_Answer」リポジトリにアップロード
+5.　課題を「Final_Answer」リポジトリにアップロード<br>
 例：　　<br>
 ユーザー名/Final_Answer/Exercise_for_Pool/python/ex1_web-scraping/1-1.py　　
 
