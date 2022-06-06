@@ -50,3 +50,7 @@ https://wiki.f-answer.com/knowledge-base/html-copy-rule/
 excelの中の「Amazon Lightsailの使用設定」「ログイン機能」のシートに取り組んでください。
 
 提出は、「Laravel」というブランチを作り、そこにpushしてください。
+
+### 提出方法
+提出は[こちら](https://docs.google.com/forms/d/e/1FAIpQLScYrEw7wbQI5hLxWTDG5jZJJrd9mTpo9XchFk5TNh9LjoxHfw/viewform?usp=sf_link)から<br>
+課題番号のチェックボックスを作っているので、そちらにチェックを入れること。複数課題をまとめて提出することも可とする。 <br>
