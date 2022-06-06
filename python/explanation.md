@@ -19,6 +19,7 @@ SlackのDMにて
 
 ## GitHubページについて
 自身のGitHubページの「Final_Answer」リポジトリ以下のディレクトリ構造は、「Final_Answer」のGitHubページ内の「Exercise_for_Pool」以下と同じにすること。<br>
+
 例：[ユーザー名]/Final_Answer/Exercise_for_Pool/python
 ## 提出用フォームについて
 提出フォームは[こちら](https://docs.google.com/forms/d/e/1FAIpQLSeXkMCQowSahShrMonuHMQkjldjyx5CjPaf0dDMfq-AOHKZUw/viewform)。
