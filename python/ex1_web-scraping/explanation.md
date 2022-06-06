@@ -26,7 +26,7 @@
 ## 課題1-2
 課題1-2では、seleniumライブラリを使ってクローリング及びスクレイピングを行う。<br>
 ### 使用するpythonのライブラリ
-1. requests
+1. selenium
 2. pandas
 3. re
 
