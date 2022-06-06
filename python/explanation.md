@@ -24,7 +24,8 @@ SlackのDMにて
 ## 提出用フォームについて
 提出フォームは[こちら](https://docs.google.com/forms/d/e/1FAIpQLSeXkMCQowSahShrMonuHMQkjldjyx5CjPaf0dDMfq-AOHKZUw/viewform)。
 課題番号のチェックボックスを作っているので、そちらにチェックを入れること。複数課題をまとめて提出することも可とする。
-自身のGitHubのURLは、pythonディレクトリのURLを貼ること。
+自身のGitHubのURLは、pythonディレクトリのURLを貼ること。<br>
+
 例：https://github.com/***/Final_Answer/tree/master/Exercise_for_Pool/python/
 ## 諸注意・補足事項
 1. 提出期限厳守
