@@ -56,7 +56,7 @@ https://www.webhack.jp/archives/8019
 課題1-2では、**selenium**ライブラリを使用したクローリング・スクレイピングが指定されている為、下記にseleniumライブラリを使用したクローリング・スクレイピングの参考となるサイトを提示する。<br>
 https://tech.nkhn37.net/python-selenium-web-scraping/<br>
 https://noitalog.tokyo/python-selenium-scraping/<br>
-https://qiita.com/kinpira/items/
+https://qiita.com/kinpira/items/383b0fbee6bf229ea03d
 
 
 
