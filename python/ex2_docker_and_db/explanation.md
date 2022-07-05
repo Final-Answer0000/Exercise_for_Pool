@@ -7,7 +7,6 @@ Python環境とMySQLは一つのコンテナに同梱させなくてもよいが
 1. OS : Ubuntu20.04
 2. DB : MySQL
 3. Python3.8
-4. selenium (Google Chrome)
 ### 提出するもの
 以下の項目が映った状態のスクリーンショット（ファイル名：ex2-1.png）。スクリーンショットの描像は「sample_ex2-1.png」を参照。
 - Ubuntuのバージョン
