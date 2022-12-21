@@ -44,15 +44,19 @@ https://www.try110.com/bousai_kawara/
 模写する上での注意事項は、以下のリンクを参考にしてください。（初めて取り組む方は必ず読んでください）<br>
 https://wiki.f-answer.com/knowledge-base/html-copy-rule/
 
-### Laravel（ログイン機能）
-ディレクトリ内にあるexcelシートをもとに、Laravelでログイン機能の実装をしていただきます。<br>
-excelの中の「Amazon Lightsailの使用設定」「ログイン機能」のシートに取り組んでください。
-
-提出は、「Laravel」というブランチを作り、そこにpushしてください。
-
 ### 提出方法
 提出は[こちら](https://docs.google.com/forms/d/e/1FAIpQLScYrEw7wbQI5hLxWTDG5jZJJrd9mTpo9XchFk5TNh9LjoxHfw/viewform?usp=sf_link)から<br>
 課題番号のチェックボックスを作っているので、そちらにチェックを入れること。複数課題をまとめて提出することも可とする。 <br>
+
+## Laravelチーム（ログイン機能）
+1. Laravelでのスクラッチ開発(Laravel8 + Alpine.js) : https://laracasts.com/series/laravel-8-from-scratch <br>
+1. LaravelでBlog機能を作成。
+
+詳しくは[laravelディレクトリ内の課題説明ファイル](./laravel/explanation.md)を読んでください。
+
+### 課題提出
+課題担当者のDMに課題をpushしたGithubリポジトリURLを共有することで課題提出とします。
+
 
 ## IT総合基礎
 IT総合基礎の課題は、「IT_comprehensive_basics」のディレクトリ内にある各PDFにあるリンクの内容を読んだのち、PDFの最後にあるgoogleフォームへの回答と、課題がある場合には課題に取り組むことになります。
