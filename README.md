@@ -1,5 +1,4 @@
 # 本課題について
-これは、ファイナルアンサーに入社された方が、試用期間中に取り組む課題になります。
 以下の手順に沿って、課題に取り組んでいってください。
 
 1.　本Githubページからpython、web、IT総合基礎などそれぞれの課題を把握する
@@ -11,6 +10,7 @@
 ・上記ディレクトリ以下に、「python」か「web」またはその両方を作成<br>
 ・python(or web)以下に、「ex1_web-scraping」,「ex2_docker」（「site-trace1」・・）などの課題名ディレクトリを作成<br>
 ・課題名ディレクトリ以下に、「1-1.py」などの具体的な成果物を入れる<br>
+
 ディレクトリ構造例：　　<br>
 Exercise_for_Pool/python/ex1_web-scraping/1-1.py　　
 
@@ -26,10 +26,10 @@ Exercise_for_Pool/python/ex1_web-scraping/1-1.py　　
 * GitHubのURL  
 詳細は各課題の説明を参照
 
-## pythonチーム
+## python
 pythonディレクトリの『explanation.md』及び各課題ディレクトリ内の説明資料を参照。
 
-## webチーム
+## web
 webチームの課題は以下の2種になります
 ### webサイト模写コーディング1,2
 HTML/CSSを用いて、ローカルでwebサイトの模写をしていただきます。
@@ -48,7 +48,7 @@ https://wiki.f-answer.com/knowledge-base/html-copy-rule/
 提出は[こちら](https://docs.google.com/forms/d/e/1FAIpQLScYrEw7wbQI5hLxWTDG5jZJJrd9mTpo9XchFk5TNh9LjoxHfw/viewform?usp=sf_link)から<br>
 課題番号のチェックボックスを作っているので、そちらにチェックを入れること。複数課題をまとめて提出することも可とする。 <br>
 
-## Laravelチーム（ログイン機能）
+## PHP/Laravel
 1. Laravelでのスクラッチ開発(Laravel8 + Alpine.js) : https://laracasts.com/series/laravel-8-from-scratch <br>
 1. LaravelでBlog機能を作成。
 
