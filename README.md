@@ -49,13 +49,14 @@ https://wiki.f-answer.com/knowledge-base/html-copy-rule/
 課題番号のチェックボックスを作っているので、そちらにチェックを入れること。複数課題をまとめて提出することも可とする。 <br>
 
 ## PHP/Laravel
-1. Laravelでのスクラッチ開発(Laravel8 + Alpine.js) : https://laracasts.com/series/laravel-8-from-scratch <br>
-1. LaravelでBlog機能を作成。
+Laravel 13、React、TypeScript、Inertia.jsを使用し、ユーザー認証とTOTP二段階認証を備えたブログアプリケーションを作成します。
 
-詳しくは[laravelディレクトリ内の課題説明ファイル](./laravel/explanation.md)を読んでください。
+環境構築にはLaravel Sailではなく、受験者自身が管理する独自のDocker Compose構成を使用してください。
+
+要件と提出方法は[Laravel課題文](./laravel/explanation.md)、合格条件と配点は[受験者向け評価基準](./laravel/evaluation.md)を確認してください。Laravel課題では、これらの文書を正とします。
 
 ### 課題提出
-課題担当者のDMに課題をpushしたGithubリポジトリURLを共有することで課題提出とします。
+Laravel課題文に記載された提出物を、課題担当者のSlack DMへ共有してください。
 
 
 ## IT総合基礎
